@@ -16,7 +16,7 @@ Email Me 👉 ✉️ **totalgamingstatus242@gmail.com** For Collaboration/Projec
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
-[![TrueEdgeDev YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/@TrueEdgeDev) 
+[![TrueEdgeDev YouTube Channel]([https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white))](https://www.youtube.com/@TrueEdgeDev) 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
 <!-- Snake Game Repo View -->
